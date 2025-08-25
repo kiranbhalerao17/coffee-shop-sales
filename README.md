@@ -17,3 +17,7 @@ The dashboard provides insights into daily, monthly, and product-level sales per
   - Summarized data for product categories, sales by date, and revenue by location.
 - **Interactive Elements**:
   - Added Slicers and Timelines for filtering by date, product, and location.
+## **Tools & Techniques**
+- Microsoft Excel (PivotTables, PivotCharts, Slicers, Conditional Formatting)
+- Basic Data Cleaning Techniques
+- KPI Visualization & Dashboard Design
