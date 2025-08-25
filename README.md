@@ -1,4 +1,4 @@
-# coffee-shop-sales
+# Coffee-Shop-Sales
 ## **Overview**
 This project showcases an **interactive Coffee Shop Sales Dashboard** created in **Microsoft Excel**.  
 The dashboard provides insights into daily, monthly, and product-level sales performance, helping stakeholders make data-driven decisions.
